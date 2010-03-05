@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "pb"
     gem.summary = %Q{pbcopy, pbread, pbpaste}
-    gem.description = %Q{PB is a Clipboard tool that provide pbcopy, pbread, pbpaste. It supports only Mac :)}
+    gem.description = %Q{PB is a Clipboard tool that provides pbcopy, pbread and pbpaste. It supports only Mac OS X :)}
     gem.email = "kkohno@gmail.com"
     gem.homepage = "http://github.com/jugyo/pb"
     gem.authors = ["jugyo"]
