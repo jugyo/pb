@@ -1,6 +1,6 @@
 PB
 ====
-PB is a Clipboard tool that provide pbcopy, pbread, pbpaste. It supports only Mac :)
+PB is a Clipboard tool that provides pbcopy, pbread and pbpaste. It supports only Mac OS X :)
 
 Install
 -----
