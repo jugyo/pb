@@ -2,6 +2,11 @@ PB
 ====
 PB is a Clipboard tool that provide pbcopy, pbread, pbpaste. It supports only Mac :)
 
+Install
+-----
+
+    gem install pb
+
 Usage
 -----
 
